@@ -11,7 +11,7 @@
 * **描述**：擔任組長主導開發，整合地圖 API 與 AHP/TOPSIS 模型，幫助商家進行科學選址分析。
 * **技術**：JavaScript、多維度評估模型、地圖熱區視覺化。
 
-### 2. [即時轉錄會議 AI 助理 (ITRI 實習專案)](https://github.com/Cathy-0224/Smart-Location-DSS)
+### 2. [即時轉錄會議 AI 助理 (ITRI 實習專案)](https://github.com/Cathy-0224/AI-Meeting-Transcription-Assistant)
 * **描述**：獨立開發整合 STT 與 AI 服務的助理工具，提供即時回饋建議與會議紀錄。
 * **成就**：完成從需求分析、系統開發到部署的完整流程。
 
