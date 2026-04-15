@@ -7,7 +7,7 @@
 
 ## 💻 精選專案作品
 
-### 1. [智慧選址決策支援系統 (Smart Location DSS)](Smart-Location-DSS)
+### 1. [智慧選址決策支援系統 (Smart Location DSS)](https://github.com/Cathy-0224//Smart-Location-DSS)
 * **描述**：擔任組長主導開發，整合地圖 API 與 AHP/TOPSIS 模型，幫助商家進行科學選址分析。
 * **技術**：JavaScript、多維度評估模型、地圖熱區視覺化。
 
