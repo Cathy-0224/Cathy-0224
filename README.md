@@ -7,7 +7,7 @@
 
 ## 💻 精選專案作品
 
-### 1. [智慧選址決策支援系統 (Smart Location DSS)](https://github.com/Cathy-0224//Smart-Location-DSS)
+### 1. [智慧選址決策支援系統 (Smart Location DSS)](https://github.com/Cathy-0224/Smart-Location-DSS)
 * **描述**：擔任組長主導開發，整合地圖 API 與 AHP/TOPSIS 模型，幫助商家進行科學選址分析。
 * **技術**：JavaScript、多維度評估模型、地圖熱區視覺化。
 
@@ -15,7 +15,7 @@
 * **描述**：獨立開發整合 STT 與 AI 服務的助理工具，提供即時回饋建議與會議紀錄。
 * **成就**：完成從需求分析、系統開發到部署的完整流程。
 
-### 3. [線上火鍋訂位與點餐系統](https://github.com/Cathy-0224/) 
+### 3. [線上火鍋訂位與點餐系統](https://github.com/Cathy-0224/Hotpot-Ordering-System) 
 * **描述**：從零規劃開發的完整前後端互動系統，包含會員管理與後台營運分析。
 * **技術**：PHP、MySQL、HTML5/CSS3/JS。
 
